@@ -1,0 +1,26 @@
+body{
+	/*background:	#E6E6FA;
+	color:#E9967A;*/
+	 background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKcJeZs_WGDTHpcqWB-h_OasnvyVJqHTVnnilz3TIl9ZqtYI");
+	 /*background-repeat:no-repeat;*/
+
+   background-size:cover;
+}
+.panel, .panel-heading, .list-group, .list-group li{
+	background:#708090 !important;
+	color:#800080 !important;
+}
+#weather
+{
+	margin-bottom:20px;
+}
+footer
+{
+	text-align:center;
+	background:	#708090;
+	/*#FFFFE0
+*/	color:#E9967A;
+	height:40px;
+	padding-top:10px;
+	
+}
